@@ -1,2 +1,4 @@
-Ini adalah backend untuk aplikasi springboot ecommerce
+Ini adalah backend untuk aplikasi springboot ecommerce ini Johanes Kristiadi
+
+Halo, ini Joshuaa.
 Ini monica
