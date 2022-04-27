@@ -5,3 +5,5 @@ ini Johanes Kristiadi
 Halo, ini Joshuaa.
 
 Ini monica
+
+Ini orang bodoh
